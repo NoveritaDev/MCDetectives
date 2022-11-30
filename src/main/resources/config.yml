@@ -1,0 +1,36 @@
+fingerprints:
+  enabled: true
+  lifetime: 72000
+  blocks:
+    - chest
+    - brewing_stand
+    - furnace
+    - blast_furnace
+    - trapped_chest
+    - barrel
+    - oak_door
+    - dark_oak_door
+    - acacia_door
+    - birch_door
+    - spruce_door
+    - crimson_door
+    - jungle_door
+    - mangrove_door
+    - warped_door
+    - iron_door
+    - stone_button
+    - polished_blackstone_button
+    - stone_button
+    - oak_button
+    - dark_oak_button
+    - acacia_button
+    - birch_button
+    - spruce_button
+    - crimson_button
+    - jungle_button
+    - mangrove_button
+    - warped_button
+    - hopper
+    - dropper
+    - dispenser
+    - trapped_chest

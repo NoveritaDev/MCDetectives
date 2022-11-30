@@ -1,0 +1,4 @@
+main: me.noverita.mcdetectives.MCDetectives
+version: 1.0.0
+name: MCDetectives
+api-version: 1.17
