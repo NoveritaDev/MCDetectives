@@ -1,6 +1,6 @@
 fingerprints:
   enabled: true
-  lifetime: 72000
+  lifetime: 1800
   blocks:
     - chest
     - brewing_stand
@@ -34,3 +34,48 @@ fingerprints:
     - dropper
     - dispenser
     - trapped_chest
+tool-attributes:
+  enabled: true
+  attribute-certainty: 0.3
+  attributes:
+    - Heavy
+    - Medium
+    - Light
+  durability-certainty: 0.3
+  durability:
+    - Sharp
+    - Dull
+    - Chipped
+    - Jagged
+    - Broken
+  tools:
+    - wooden_pickaxe
+    - wooden_shovel
+    - wooden_sword
+    - wooden_axe
+    - wooden_hoe
+    - stone_pickaxe
+    - stone_shovel
+    - stone_sword
+    - stone_axe
+    - stone_hoe
+    - golden_pickaxe
+    - golden_shovel
+    - golden_sword
+    - golden_axe
+    - golden_hoe
+    - iron_pickaxe
+    - iron_shovel
+    - iron_sword
+    - iron_axe
+    - iron_hoe
+    - diamond_pickaxe
+    - diamond_shovel
+    - diamond_sword
+    - diamond_axe
+    - diamond_hoe
+    - netherite_pickaxe
+    - netherite_shovel
+    - netherite_sword
+    - netherite_axe
+    - netherite_hoe

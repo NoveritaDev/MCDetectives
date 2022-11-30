@@ -15,6 +15,7 @@ public class MCDetectives extends JavaPlugin implements Listener, CommandExecuto
         FileConfiguration config = getConfig();
 
         fp = new Fingerprints(this);
+        WeaponAttributes wa = new WeaponAttributes(this);
     }
 
     @Override
